@@ -8,7 +8,6 @@ from io import BytesIO
 import imageio
 import requests
 import json
-import geocoder
 from PIL import Image
 
 ########################################################## APPEL API #####################################################################################
